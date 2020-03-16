@@ -45,6 +45,10 @@ The following values are valid for the **format** parameter:
 |:-------------|:-----------------------------------|----------------------------
 | pdf          | Converts the item into PDF format. | csv, doc, docx, odp, ods, odt, pot, potm, potx, pps, ppsx, ppsxm, ppt, pptm, pptx, rtf, xls, xlsx
 
+## Limits
+
+Powerpoint conversion is limited to 105 MB of maximum source file size. Word is limited to 150 MB and Excel is limited 40 MB.
+
 ## Optional request headers
 
 | Name            | Value   | Description                                                                                                                                              |
